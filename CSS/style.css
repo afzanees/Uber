@@ -16,6 +16,9 @@
     height: 40px;
   
 }
+a{
+  color:black;
+}
 .nav-first{
   display: flex;
   align-items: center;
